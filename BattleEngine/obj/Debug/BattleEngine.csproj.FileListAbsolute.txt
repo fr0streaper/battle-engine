@@ -1,0 +1,12 @@
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\BattleEngine.exe.config
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\BattleEngine.exe
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\BattleEngine.pdb
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\NStack.dll
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\System.ValueTuple.dll
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\Terminal.Gui.dll
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\System.ValueTuple.xml
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\bin\Debug\Terminal.Gui.xml
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\obj\Debug\BattleEngine.csproj.CopyComplete
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\obj\Debug\BattleEngine.exe
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\obj\Debug\BattleEngine.pdb
+C:\Users\fr0streaper\source\repos\BattleEngine\BattleEngine\obj\Debug\BattleEngine.csprojAssemblyReference.cache
